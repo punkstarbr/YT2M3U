@@ -45,7 +45,7 @@ def grab(url):
         if is_windows():
             print('https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u')
         else:
-            print(f'Error processing URL: {url}')
+            print('https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u')
 
 
 def main():
