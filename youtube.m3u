@@ -1,37 +1,315 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml"
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-###########################################################################
-#                                  >> https://github.com/guiworldtv       #
-###########################################################################
+` `     "    "                       
 
+       .-.      _______                            
+      {}``; |==|_______D                        
+      / ('        /|\                       
+  (  /  |        / | \                             
+akg\(_)_]]      /  |  \ 
+    
 
-#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/58G5JcOBaDEvphcPUZSeJCbWYGu7R7UEUj010hkkNL2MpafXx7_NiZI44dc3mGhP3Wk2Is3yAw=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Cámara de Diputados Mexicano
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT5SVvlAQfKftqWVzeOs-8vyiy4HQaeK_57h0f_-A=s48-c-k-c0x00ffffff-no-rj"tvg-id="", The Global Prayer Room
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374122/ei/Smc3ZOvvDPyX6QKW57nACQ/ip/40.77.92.160/id/Fgm9UAzdzQY.4/source/yt_live_broadcast/requiressl/yes/tx/24470267/txs/24470261%2C24470262%2C24470263%2C24470264%2C24470265%2C24470266%2C24470267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512783/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQJbRSLUso_5MbnxXKm_4VXtS6k0NTcMmWnOO0s5_74ICIQDqjX8JfKW-e7oL926zxBwsgUq3OpWI9x_j-NrtFMPiJg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/LbNi3S5EEtziLc6BuAzxJtbeOnEYGmjVLiwr6PR1CQmSEkSIcOvJRlWuKnmJcE_aiXhTB76IsQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV Justiça
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374036/ei/9GY3ZJSPF4vm8wTG4aPgBg/ip/104.45.203.134/id/uZ2ONRiZpi4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIXQEuS0TXZdW2GVRdQO6m2PlFiXuqstCtAwGzgi6-C8AiEA9hzMQnr04a9vXAEI7jcxp_0xRXvrx5jMjsFhsWwPD5E%3D/file/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTzpN8YCpuGzvSsggwQitoHX_EwEvUd05pmfEer=s48-c-k-c0x00ffffff-no-rj-mo"tvg-id="", REVERE - 24/7 Worship
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374122/ei/Smc3ZOvZMsmklu8Pvc2fkAg/ip/40.77.92.160/id/vU5wa1mIMfw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAML7qsvHcNpAdB3IRy1mw1sZldn35P8EmOa447HsBm5BAiEAuHc2HVGlwHRwh8DYp0ZbeQzE8GTe941G2X19CQ4BUCo%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/e4qBZ8GZ6k1LHVJUaWhmTa_IIhCgCk42cENaVrECC-jhw7gD9glyyhvkudyBHHRvZ1n61wHgFYo=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Superior Tribunal Federal
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374036/ei/9GY3ZOTyL87r8wSN-4j4Ag/ip/104.45.203.134/id/TtOB8okC2Pk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOqRctOD4hZCBuuEkaOBw96sDe9S4gPlK5MJ_Q9ffSOaAiEA77GRP0-puYX4VhX_c522bJ_s4MIqZq7YfaV7hnj_jkc%3D/file/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO0rq6PlCCWZLTA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", RIT TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374123/ei/S2c3ZJv-FoaQlu8PjtyP2AE/ip/40.77.92.160/id/ta8Lp-AebRQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512781/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXBcxbAzp2hVWugxkUDA5ON804zw8l6iT-PhwRX_rlPsCIBFWM5bdTT74_Y8Z8_i1Wu_u2jng9k1-AK_cK5fwP_XC/file/index.m3u8
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSJnc5MKamnLLR6WpiejIu7NjCtqaySjZpO4Ru8Mg=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Câmara dos Deputados BR
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj"tvg-id="", REDE BOAS NOVAS
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTv2bstbZp1YjIcL4_4p4P4pM9ePDi7C_Foedk4_Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV ALEGO
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbFUrNuqtwnOu-x1dmYehCHn_TzFzix2MCNu1F=s48-c-k-c0x00ffffff-no-rj"tvg-id="", TV VERDADE
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/S2aizddvZQypyQ5Gu77HhSDsWZCTQl1NeEqRgztbZ0R8yliUjQrQoMa6cMsjMMoREyB6pfUY=s88-c-k-c0x00ffffff-no-rj" tvg-id="", ASSEMBLEIA LEGISLATIVA TOCANTINS
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/BKuSCC60GobYrgO3lFbWqxLsrPbV6HuKR5e7Ig9cEeCBQPWuhf2B_Yvdf4DorB_1nY1s75DjLA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Aparecida do Norte
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374124/ei/TGc3ZLPvJIyG6QLw_bXACA/ip/40.77.92.160/id/-xNJ5Q8DvtY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZtKY4asP3nsBkH1j7pNdB7Aj0wNOFSxdG1E4dAfJYVgCIGq9hIi0BXGT1oAZeUq6VPffSBNrU6a32qyOU4ytW2Jz/file/index.m3u8
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/H48w_GCxfG7WfXLSxjVihHktZtBRBzUWsqzbjK3FoxdRY1NfBhZzLiJNBUPzkZOAf9FmhQGOmpY=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV ALESP
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374039/ei/92Y3ZIG6KMHo8wSq-JOwCQ/ip/104.45.203.134/id/7pC2IOcKWU4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANCmtSeM5g9me8myqiiWFfqZv8RhzzbSudNUwAppqaYNAiAHiP2_EceGimIOxQ_EaRnFPCHASTWbR3kRPOJswEQFsw%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTcmInFx-BRSCvIU5N-DYDj2DUHLX5nF9OKA8QLtA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Vatican News
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRr_SDZbbCwuZQNDPbdYuLWFz92sp0R5wtPIzAJ7Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="", TV ALERJ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374040/ei/-GY3ZKWEBofl8wSVxZywAg/ip/104.45.203.134/id/pOzSDIIGiS8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgB71XvMhCk90vSVGcpxCApd4w1Fy3-13HpMYQ6Dd5fpACIFdZAS3YAzxZTZSude20jd4haM5R8y8kHvQsMPDD8WF6/file/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQeD4dlDV_dBGnZhUR5QG5S1y_MQBrmjagMcjjVJg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Santuário de Fátima
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374125/ei/TWc3ZOv3HI22uwLJ1reoBw/ip/40.77.92.160/id/XTxJgKYvcp0.1/source/yt_live_broadcast/requiressl/yes/tx/24483240/txs/24483240%2C24483241/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPXoartXG8kY9SPW-25o4P9aOvJBVDEirNm5gZi04mReAiBaJg8E_XvobHjTtdaUHOpxOQ5QoWZ9GS2zErHyxTPZlA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_QJj7NY8rFna4niQT73udla5RXNQzIQY22RJAVA=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Assembleia Legislativa de Minas Gerais
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374040/ei/-GY3ZMOqKYO48wSZmK4I/ip/104.45.203.134/id/JU96vVH2eM8.1/source/yt_live_broadcast/requiressl/yes/tx/24435245/txs/24249503%2C24429555%2C24435245/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJF4FhyySXPtv0yFNhgXhQ4Y7Bgz-0VZJIaAcdXXuicTAiEArRJPY3SPRMUB3YYn6a5nFAkuKYzM5dGOuFVWCP7AdWA%3D/file/index.m3u8
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/WSq_VxcqTx-9jF4UrPdqKUJk0dx5l94JGAzMPBLuinbzrzntRaWvra0u82y1HYAW_gOMpQQjDjA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Santuário Notre-Dame de Lourdes
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374126/ei/Tmc3ZJ3lBMriuwLhgZLwCg/ip/40.77.92.160/id/Zz2lqOMiBeo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMIKb_6-N8_IwsDk1ZCG5uGkIzt-Ebc8zkz5QjxS10wrAiEArzNA5_6RMNAmSdhIfBrD4VO1WcFape2p6R6SRHv24Nw%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Política" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQDFSq_97Nv-1I_w6w6yDkRecEUCxXROAkkEAnmQ=s88-c-k-c0x00ffffff-no-rj" tvg-id="", TV CÂMARA SÃO PAULO
-https://raw.githubusercontent.com/guiworldtv/MEU-IPTV-FULL/main/VideoOFFAirYT.m3u8
+#EXTINF:-1 group-title="Tv Aberta" tvg-logo="https://yt3.ggpht.com/6BaRqJWUjuo7U91NMsuY0aH0vXzgWsUaKGFvvME1SYK8v9aBCRcWq0wSJ10mtLqFtltG08q5=s88-c-k-c0x00ffffff-no-rj"tvg-id="", TV A Crítica
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Tv Aberta" tvg-logo="https://yt3.ggpht.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s88-c-k-c0x00ffffff-no-rj"tvg-id="", Diário TV Teresópolis
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTxhMhXkfzEQeuUOmBGYbiUwQx05-jYqfs97ARu=s48-c-k-c0x00ffffff-no-rj"tvg-id="", BM&C NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374127/ei/T2c3ZLz2JMuq6QLDyaXICQ/ip/40.77.92.160/id/6Drlfvk0eWo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI8RLQdlvMpqprOdVe7RPxIvVrXntzFYGKVmPR7eA0o0AiEAltcXMoFVZTtmvBF0zzXrvxNVTk3AsL-K7V7HyjLP49s%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRmHywtWtGPiLXqxLQsy_DH-z9qdtZXngz_R2aZ5A=s48-c-k-c0x00ffffff-no-rj"tvg-id="", JOVEM PAN NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374128/ei/UGc3ZICuB8uq6QKslaWABg/ip/40.77.92.160/id/Aiiec_kHrGs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVVAXp3qIru-pdf_i5x5MxvNuEWmwqkSC6xVHLI_O-KQCIFKp0g60VrXmZpVUl7BnH5KrzI5uM1tMFtMbc-HFiac-/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", RECORD NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374128/ei/UGc3ZOTLK4mZjQSU56KoCw/ip/40.77.92.160/id/53qM03Sp7Ac.1/source/yt_live_broadcast/requiressl/yes/tx/24470267/txs/24470261%2C24470262%2C24470263%2C24470264%2C24470265%2C24470266%2C24470267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALLtbi8SocTA0pqI3XZfTz-TU9UZGvCBDLuW-lIu-KNuAiBYFs9foQg6yhPc8cp1lW23ZwKg2TfI7cAqKM1-IUX1Bg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgXwqHfXaMKq30loyBjY-Cny6Ymu-YCqhn5tLbOQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", CNN BRASIL
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Cnn'S" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-KBRCkXSVRL6TwhcSIZExe3dbrocmFN2goR0Ceww=s88-c-k-c0x00ffffff-no-rj"tvg-id="", CNN TURK
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374130/ei/UWc3ZNiEO9iW_tcP4rGIMA/ip/40.77.92.160/id/Ue9SnIpwNB4.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMoWIdxsyo6MWE7rKDsb4vouR03vFpghLl9-0wbkz0IMCIF4kpVdwyRUlfZDN8bZ1zWJlh1EJqGY75KbpfuOobDlq/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcyBtNBVCDXOr5zkVQoqoKTClWkJL45hSVbOxbWLc=s88-c-k-c0x00ffffff-no-rj"tvg-id="", FOX NEWS
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSph4TS85gWo9KRiQX2HNuLou4qhCKfeklHONEP=s48-c-k-c0x00ffffff-no-rj"tvg-id="", ABC7 SWFL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374130/ei/Umc3ZJGmLNKilu8P9_SK8Ao/ip/40.77.92.160/id/XObsOutMlh8.63/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWwJsQfclNMzagm-tJQTJU3NWA-glHChlDnBl6Cl3r-kCIDh7w6lpZJs5Vsn29N8cVH0bLY5eN2vFpgiYIRcyJ6zi/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://www.youtube.com/channel/UCD9nZ3qeRGbPuHJaJduiQxA"tvg-id="", WESH 2 News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374131/ei/U2c3ZMThB8-a2_gP7pCHyAU/ip/40.77.92.160/id/Ca6RgU5MAn8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgd_z4pqsO4WNgK-2MJFeSKMQdviuX8SLH_AENmeWsWi4CIQCMXVBJiBxiA14kjgFKgWd2C8CDXr1Vdg5b8gSVyiZFew%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/7w6FB0pXZwcTB6am57OXYaOF-vra1-oAEtsMS1sRu7MazRzzUCpCY6rKwz8Xr4PzB3X5G4c=s48-c-k-c0x00ffffff-no-rj"tvg-id="", LiveNOW from FOX
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374131/ei/U2c3ZMSiJ8OElu8PhZ-W6AE/ip/40.77.92.160/id/SSaAxbbgtJA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJLcWYxe-jdTo4x7S4n2izi79OHrgcy53Ovu85SZZY-nAiBBO_18FPVx-ekDSOTSHVB0Fpztv85HX-GLdMfk5lPibQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQe0x9Hnel8ou4C2TGu0MjcLCnhU1U1BY_dqzt5=s48-c-k-c0x00ffffff-no-rj"tvg-id="", FOX 35 Orlando
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ-FXZ-hqJdr-tiKskDf424msLUSB5SCCxRh1HozA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", WCVB Channel 5 Boston
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374132/ei/VGc3ZM_kGeaglu8Pv7GGyAk/ip/40.77.92.160/id/Rcf5UDWUv3A.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJTw9NcT-IV4cDpTMt-HJMejqXnI9fTmqhq5ApQMNAY0AiEAuM-c4l0mVovFvAxRkjh0qF35brzm8lqI8HOLaHDJ_HU%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRWKDLi-7iaW7i8TqDNMikrt6gB265BSxcsHSxK7GA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", ABC7 News Bay Area
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT1XtTPxhiNUmwCmyKKdG_nMXQ_IPtZ0Q_6e2MZgg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", WVTM 13 News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374133/ei/VWc3ZLrTEcORjQSI1ayQAg/ip/40.77.92.160/id/9yi5_gU1-XE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcysbI-5iTJW-7v8U8Ax9wMAMFzBwIaqJZW3M0LR0obYCIQChql5f_HN_yxcNyLOp0X4et-Gl1BjlYiY6fIZhQ3Gy7g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR6EAGFRDSsS2Fo5mN4X4wro_mcmHCgfnU09hk9TA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", KOCO 5 News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374134/ei/VWc3ZOe2O4fuuwLowLPIAQ/ip/40.77.92.160/id/utVMQcCMn2k.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDJougUA22EMF9-7FdHtSrctj999flk2EU8ur-df78uMCIQDrollUJobG81NPoaClhQUdq1YtRs6tMeCCP25Q1THQnw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSZk6cU0O7nulr0EvfHwbIz9C0tUmOVqmX16FnxFW4=s48-c-k-c0x00ffffff-no-rj"tvg-id="", KMBC 9
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374134/ei/Vmc3ZIjqIvOslu8PmpW5YA/ip/40.77.92.160/id/51S5ut3lZkY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL8la-KEDMPzl-4HZBrts_O8Xxmnos8BS7dmkQmdxaG5AiEAqkvkVwGgSLkXIZMb9Am0KchcEKXJlhXnKSnGOpUolzA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTlwNsrEbdltrvSAPlzJ9PqTxR5xl2jg9rJOC50P94=s88-c-k-c0x00ffffff-no-rj"tvg-id="", WLWT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374135/ei/V2c3ZNbSB4W2ir4P24G6kAY/ip/40.77.92.160/id/3-WqTkgLumY.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKUT2C99MBox8hNX8LxRYa2fV06Cn-fQpq8Apy9c0uXLAiEAmU622krnBjkPw968Vz_DrRpljXmFPU3OQ3RZfT4dur0%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR81ghv2-0jxpzdXlczwIjw-QT5vYOB54nB9_EA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", KSBW Action News 8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374135/ei/V2c3ZI_2K8HDjATXzbpI/ip/40.77.92.160/id/uz1aurn1kM8.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTsVQ7OKC4vaBrhVhAqoJKiYOv1BzCHDuIW-AA3QRDHwCIQDD8r8pcZ7Epy8jKXQWFSAzzZ2REhJ9E-GJEXZacQQhTA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRTQPV9x_l0s9AC7DIgbZjAlN_4WrmUEcsEh5wzRJ0=s88-c-k-c0x00ffffff-no-rj"tvg-id="", Eyewitness News ABC7NY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374136/ei/WGc3ZOutFZPUuQKcn6vQCQ/ip/40.77.92.160/id/KQyEeQyGOWQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgftty_I_s6RUZxreh1rc9zoiYLTjzF2LL8Su1EHDPZZICIB_1EkaM-nkd9mIRK4-AHuIBKX9Qsh7paTs7l2im-3U8/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/CX70GtDKDciiX42FFrHMEmDD4u0w42-AME5CSNNKa7MutUUHK4I1X-pUYyIa2KCiviNrDb58=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Weather Tracker TV Network
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374137/ei/WGc3ZIryPO61lu8P2r6h0A8/ip/40.77.92.160/id/0ADdN6hebXo.1~45391271/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIwBCSVhtjEf9iVC6-v7h0ZLH4vKWn6tf8-1RYa_ZbN0AiEAjGiee1zKlM01s5jJDNABrKI2LPehtF-WAW4oWphOx_A%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQGdGL2NXxhK4RH5S6XdrK-HgaxoHiEJw8JZoGmEw=s48-c-k-c0x00ffffff-no-rj"tvg-id="", TBS NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374137/ei/WWc3ZMCwG8uY2_gPgbeTgAc/ip/40.77.92.160/id/oBzUz_PMYac.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNwSZdPQ8PuiGP7fso9ztBOfpii3FVkl69ar5Vub4mkwCIQCM9j_SkXpXXzVBxc9cpM0UKlG0h-WzQG3kyz6B4I28Uw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT8q9CX4OBJFSjoTzTe_t-zEAt67Sr2PxqqM3DXLg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", ANNnewsCH
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374137/ei/WWc3ZIfiNYGMjQTAgqmICw/ip/40.77.92.160/id/tzkQo5VlPyw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgOmBRsXE3zXqGXjs1-DPClivfPFHWEXD0YM7_IS6q4s0CIGKWDk-ZVWWcZzI6b-J7jkDfUSa7UrKoQrpA5mDnN6Gk/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/UC2WTLqAREsl-yCW9k8NAjIvs1Iti2rrjWwVhmXely7PWjgXF2bfPgY-3-2Rf_CDmD608FE3eg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Adn40 - MÉXICO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374138/ei/Wmc3ZOCEGemDjQTjhqHIAg/ip/40.77.92.160/id/9YWBuS4FDQ8.1/source/yt_live_broadcast/requiressl/yes/tx/24428414/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP2iCAPBGFI_XyOk-oXyAz4mxBA3TcbjB2jaQOxFQBN0AiEAjzb9IDUOHbd9IPr7fRtq-XCOuZeSZhiye4KNFLa9M5U%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", TELEVISA NOTICIAS
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/SAD39sKg9LxGbPXcZOEK204YyfPEvOo-S_mkIhu-JOEffJFeqi-1mjcMoQGTgs94JAYIk9t8Tg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Al Jazeera Mubasher
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374139/ei/W2c3ZKuPIYTuuQLa26OIAg/ip/40.77.92.160/id/8D5QY5gw_Xk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKJF2sLlHqi-2Jf6gTLHeR5FYKjpIr6vEl4PXEU_NE2gAiATA-7bvhgDO9khVlXBR45_hul60CmcyHg4J3LqWy6bTA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://yt3.ggpht.com/ycUCcHsYsrHYKj_x9g75ZCvo7yjXP7mmJMEek36n28y9Vvf42iFwwJMWSiivDjDgDcqN4nOZ7g=s88-c-k-c0x00ffffff-no-rj"tvg-id="", UCRANIA 24
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS65t8rTqqc4hZhI_PS-vShgEGOdpvQlcuYnfk_Hg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", GUARULHOS AIRPORT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374140/ei/XGc3ZJOfDpn_2_gPncOpuAQ/ip/40.77.92.160/id/ZZL5NqDyQh4.1/source/yt_live_broadcast/requiressl/yes/tx/24470262/txs/24470261%2C24470262%2C24470263%2C24470264%2C24470265%2C24470266%2C24470267/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfX5cIQtfdl2SCPYJXLVqgoaCROeaen_6mxvy0Cq50rECIQCST_owUw81dyPvmNvHBJeHkKOaGXCfneTQn9sySfvgxA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/RsHrsYqe_fxbvTDXOhJFTv6YmEcsDOM-2qfaDbGZs_UifH1_hwR-RckQqBxvyzQjax2mXNTL=s48-c-k-c0x00ffffff-no-rj"tvg-id="", GUARULHOS AIRPORT 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374141/ei/XGc3ZJbMPOKHjQSG7aT4Bw/ip/40.77.92.160/id/IAhIemlQQfs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQGS_MhUPWnHPYdhMIK4QeSYN3n594PQbOSZ9HySFudkCIQCPXmnr0165FqCXSF0ypSFoU4cnxAVFLZWTPHnOH5Zi4Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", CONGONHAS AIRPORT
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTPXZTLVb-LYZkFp-quEYS3NcVDcLsxJ5nYb5yP=s88-c-k-c0x00ffffff-no-rj"tvg-id="", RIO DE JANEIRO AIRPORT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374142/ei/Xmc3ZLjtA6Gslu8P4bejyAc/ip/40.77.92.160/id/Ri0Omg_nGuE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgM-QeVsQbBUYjuGq0966W3stzz0qpFzyQ-ixL9DietSICIGrorAYfdc_l6QmsnL88KQZjx6RNBrBhMjMufZBxnn4d/file/index.m3u8
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/Rq1qun-SzKJUphmNDzZUK6HndXIdQtPhH-kGxVtk7fP4fmoTLHnCTgBa8fzDMxq1tSdzU3TKWQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", PORTO ALEGRE AIRPORT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374142/ei/Xmc3ZIfCI8Sklu8PjqCskAc/ip/40.77.92.160/id/xtnkSHeCwUY.1/source/yt_live_broadcast/requiressl/yes/tx/24483116/txs/24483116%2C24483117/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcJwmlP1OpaRfK-aLElHMnm9jMjRNHjmkDqLzw1tTbXcCIQDHyS4CsCUDzpeSZe_qzwacu1oHxXHacRhu9MxN4hxBaw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ll6JaBsZF0046sDVf7j4MotltYYW5v8XwgZAYzuVierMMstTtEa0UdEDr3c3M4p6E8sKurQfVg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", LAS VEGAS AIRPORT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374143/ei/X2c3ZNGiB6uLlu8PhcansA0/ip/40.77.92.160/id/4PtnVVOF7jY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANz9plEvcc8NGMO8RdbwCx7LPKXDhSmElFVmyFZFPiWhAiEA5wqKFZbl6K6zYX-uEwOQqMpbl6jwtsMxOQjVm421Qjs%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="<logo>"tvg-id="", SYRACUSE AIRPORT
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQy8Fs0tkvLdTJgKZUQnp3pw55AEsXYNy2Cshvg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Reagan National Airport
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Airport Live" tvg-logo="https://yt3.ggpht.com/rtNziHf4M1uKs3891O-3QM6lCTavFy7keCFlWyaQEfJ4Q3PsmkIE9z5cnY52eOhMKcHHH0Wi=s88-c-k-c0x00ffffff-no-rj"tvg-id="", Shoreham Airport
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/MLq8DNyvvfFEqm7HS5pILyWGQA5NLlkA7i-452AdPBJoQVpcXq_UDxVX6EMNM4HPkZ-fm26u5xs=s48-c-k-c0x00ffffff-no-rj"tvg-id="", SHOPTIME
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374144/ei/YGc3ZMLiELuX6QKavKDYBQ/ip/40.77.92.160/id/ntbU2--OCFg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJLwcmC9GFCxcBjwm1dcoWVpfVbvBXLsXioI969s0fBMAiAKc_SDFfR-EYY_0K9AkLFViXdzI3Pq12YnswBMp-8arg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/h1He6y7.jpg"tvg-id="", SLA-TV - USA (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374144/ei/YGc3ZMfNLYziugLKpri4Bw/ip/40.77.92.160/id/MWTY5-3yreM.11/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBDt5AMqqf10L5Hsm0WrL81tVbQgZONNgPrR2vqhmOQwCICh2sm-owVx6IHPfV_H6F_P1EXeldbtrHZx83SAX7gsW/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", HSN Live Stream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374145/ei/YWc3ZJ7NDLKO_tcPgKWRwAg/ip/40.77.92.160/id/1ph8qQnjXts.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANk9r5s2tjGl7i9EUtohuxENsZHNH3BsVl_itYQP_M_kAiBLnk8X285b7Z9HoMRTC9fJIBnVyV5mk3LvgczvJqEUdw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ9gvWmuywv4Ugue9aiiGGxqi5r_plbVVpQShzPJQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", HSN2 Live Stream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374145/ei/YWc3ZJWnJteX_tcPkvi88AY/ip/40.77.92.160/id/q-BvtDrTnxc.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOp6KgIuaIpRx0SmRwbZtdNHvd_4I6noaj29UVFVGDwrAiEAvXUPXTn7yqde_eE3iVX-O8FL9fC3JsuxcmpQ6ktcOSA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj"tvg-id="", QVC Live Stream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374146/ei/Ymc3ZMjyA4LsuQLasLAQ/ip/40.77.92.160/id/UqFzfqlb60g.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgf_D5jznfxNfbzpiSj2vUMVjPt99AYPakTh4i-6ZvIwUCIQCVydnWee1G5KJ0divGAEXLEXhPz4rd4WN9lfQrIz8Qcw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLScL1Emq0NQBV1DRDejd2qSJUXqpBTq03oerIJR7t0=s48-c-k-c0x00ffffff-no-rj"tvg-id="", QVC 2 Live Stream
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374146/ei/Ymc3ZLiwKPqjlu8PjoiM2A0/ip/40.77.92.160/id/_v_wMS-uACE.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM3XFz4JhBCOtSXivywWpBfqJZnSyJ8GLJ_w3vNunR49AiB5XpDjoNdnfa3AWFXNUXj0tyF5wAjyyUaryRvRsZntXg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRd3_a5uLRgNX-3HHBLUnEsGdj4ZfmlwvsMYUqb=s88-c-k-c0x00ffffff-no-rj"tvg-id="", QVC Italia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374147/ei/Y2c3ZJWjBpSM_tcPgoC2cA/ip/40.77.92.160/id/XRL-_9sjzlE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNZLFx0Nz37l2vM-Ja1dqEcRABE_vEMkIQFybogW71PUCIGfK5KwZ7MXN-oKRtKLWpswrWz-OJKcgjYIh66d_zxPO/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQtAgEu0qoc-LPQFmvrZALXcwyaAYYW2JNSCSXPQQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", QVC Deutschland
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRdapq_R--VshV8IieQT7Xj7oQl8wSXsWsErcLu=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Lejel Home Shopping
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374148/ei/Y2c3ZKugOIn2ugK7x5co/ip/40.77.92.160/id/Pi51mpoXVX4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVPPwxdYd4KYE-J2alXNJQu98sqFmuZCUjghFBsh07ZACIFKL1eXzj0m7SPgna1PZLzAk-ICd16p8qZlfUEcsQJgo/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/znNkYIBrkeGapZY3CP7OeN_RRNTviwFxmLvPjHKrEkzKbnI9rc6qpIB7A6zy6inwarCIBpjSULE=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Shop HQ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374148/ei/ZGc3ZOrOGZPI1AHGk4a4BA/ip/40.77.92.160/id/PtMX_f-mcxw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI5yyjw4rqvnL3u_hGnENgsXi9j6toDWu4yH0Xx3053oAiB6Q-k3OpBoDSsu1jVOA2KeS7k4HRaI1cWszWT7Wrnr_Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ12ajz3oOeEG_Bk8uOB3BPzhj16Nx1hbyuNy_8-Q=s48-c-k-c0x00ffffff-no-rj"tvg-id="", CHANNEL21
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374148/ei/ZGc3ZPTKMsfiuwLt86_4CQ/ip/40.77.92.160/id/0Vz3bK6K0f4.1/source/yt_live_broadcast/requiressl/yes/tx/24483116/txs/24483116%2C24483117/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAODeoOALtlA5iRsgvOpNzvZvfYyylVCY8ngyfU3kdB9kAiEA7fDRAcEbr30kvfzd77WbOLdWxKTqGTnnED5Ibd9tNco%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQuZOZNocLbtDZkGVS2fPIoGzo8w2Bk8WCkyg_Zvg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", TVSN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374149/ei/ZWc3ZI-_E_-glu8P2tynuA4/ip/40.77.92.160/id/jP9wx-7eJac.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKtMvu_F6F0uAr8wFYQSV5H4DMY0iYcd6nGns8APIlMUAiBy8dfnxha1dqsL8LX7BOftfvuX_qa3YX9uAe5NC6LOyw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/X8p8oQs.jpg"tvg-id="", Bulldog Shopping Network (BSN) (STK) - USA (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374149/ei/ZWc3ZOCsLOuslu8Pu76R0A4/ip/40.77.92.160/id/FeYq0UGewGs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHk8oyNIqpKYs6lYhy4wbyrXOc4isZfGR5rLZBze6oRcCIHxKv0xMMjSrEAHQep6eDH8-fKDsum3YtrV5CAVPzCD9/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/fnybNqxJVlKpq0EplOrnGgfKyjwQD1kR-kZTUHOqlooUG2VfhZKjJgHSCiuZkftEUGqToaPpoNk=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Create and Craft - UK (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374150/ei/Zmc3ZKjMCNKX6QKsjr7YAw/ip/40.77.92.160/id/huOIKKdRNls.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOzPDbmxM8dFBld25MLBRKPGjdoMKXQ0Vrj_gu9uFmQ4AiEA0wCOwhtI3AArf5r7P45kwnFTV-vwK9RHBwI0QntUzKg%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/YOnrSzJ.jpg"tvg-id="", Cruise1st TV - UK (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374150/ei/Zmc3ZLGbKamtjQSt1a-YBQ/ip/40.77.92.160/id/LTHVmGbYBo8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMQEWKXOpUaHOIztkw6SGr2f2FaV4Lcx7stqjf8gxRF7AiBMCRkYGyWsY28j8YD9SjtOTNOIaPXE-o2CQKsAv6eQeQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/fIuxw0H.png"tvg-id="", Gem Shopping Network - USA (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374151/ei/Z2c3ZLC0B4mZjQSU56KoCw/ip/40.77.92.160/id/BRgCQWjOBQg.1/source/yt_live_broadcast/requiressl/yes/tx/24429555/txs/24249503%2C24429555%2C24435245/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJkym5UHuzlQFkr26_qP-3npVN6x8NGbWuwa2V0KhUe8CIGr9z_sLw7_zt8PHpdNlpXOiGup3mJ52CM-YADJjbfwT/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/k4lRame.png"tvg-id="", Ideal World - UK (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374151/ei/Z2c3ZJ38Joy2lu8Pm6OXmAM/ip/40.77.92.160/id/IeP0YA6w0T0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOY8EyKCNDb2rwaCROx_CuGqswBnWPgNPnYMHiCcXFiMCIQDRto12hdn39NEGmxWSeYeVY8Sdi_RWJiQzqsjboXzG5g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQPR3aIbJcJ_snqinGZEKdjP0mMPCmt4jYOYewT5RU=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Shop LC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374152/ei/aGc3ZKSVDev82_gP7rq_iAI/ip/40.77.92.160/id/hOMzP6l0J0I.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24512778/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNcmAEXw6qBllEh3Z6KuYTDTsjKWU9qBn5wldFHVs-ZcCIQDo3-cDOqp0ym2ENp9VDs8xDfkaxUKHHqPLlTCIxnanYA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/WVAQvvX.jpg"tvg-id="", Shop HQ Health - USA (STK)
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSo-47JM1Mt-m_4EWdeZmi_uq87-cBZImge6KOr=s48-c-k-c0x00ffffff-no-rj"tvg-id="", TJC Style
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374153/ei/aGc3ZO20O4yG6QLw_bXACA/ip/40.77.92.160/id/v8j1EeATSvc.18/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEtrubAhE7dat-ny3NU6GwTf9MKcW7H14rsDWA3ogt6kCIEerXALSIQ9D_uJWhin3y26-1dXa8sU7VmxzUyr0SKPA/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQOhulAn6r13tu56_xQj-2FznIc_3aCz8Vt_vVE=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Jewelry Television
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374153/ei/aWc3ZLG6HIT6uQLzjLL4DA/ip/40.77.92.160/id/JFrTouQjjAE.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALDAEFo-Xe7L6ZH_OfW4mFnGAqpE5JzWpM2vGELArcz8AiEAsUxkYfxOY4SvAgSDC_6DmVbgL8CGTIcH57srDIuzxmE%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS8VcnaTWQk6rbT3x5QJmWJgOp0uSIM-5VQDnQ0WQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Gemporia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374154/ei/amc3ZLT3Bemglu8PnuCMKA/ip/40.77.92.160/id/28GLqvbPRfE.1/source/yt_live_broadcast/requiressl/yes/tx/24486561/txs/24486560%2C24486561%2C24486562/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI4c_iEFcchslacT9_45bErP_rNYpo0TtGC9Glb-ZqrrAiEA-edEproUTSf8zm2sf-ewBAL9AdwRr1z-_44i_mCO2gw%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/7NCipJ2.png"tvg-id="", America's Auction Channel (AACTV) - USA (STK)
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/NFCKC7X.jpg"tvg-id="", The Coin Vault - USA (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374154/ei/amc3ZNTYMaOMtQfM7JjACw/ip/40.77.92.160/id/CVvSYIP-37w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgApgjsvmbiPPnDmRGu_uwtqEQCltvK02ZsuScUykLvd4CIQDM2rLIHHsqK16in9ZtvuYNAt2YYQwLTSqf9y904-R22Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSq1yxaRYx70xm0ux1q50B0X-Mm6Iq_nN8cMVOyhw=s48-c-k-c0x00ffffff-no-rj"tvg-id="", PearlTV - França (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374155/ei/a2c3ZJ-UFcWC6QKexIaADg/ip/40.77.92.160/id/c-CSJyJOCJc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM9DaIwwiSZmctWZrvLGOANzsP5ZsfeyAeL4A3EDsPOrAiAUR6C9CjZvfqUTrJjTPLHpIp344_rPXcKhLtlJAltSOg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/cbFWldL.jpg"tvg-id="", Pearl TV - Alemanha (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374155/ei/a2c3ZOC0Lt-ulu8Pxr6KsA4/ip/40.77.92.160/id/d-dpxzoYJ4A.4/source/yt_live_broadcast/requiressl/yes/tx/24483116/txs/24483116%2C24483117/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL37SL2G6GvjMQrSTaV97SHB-M-jJyNh7g1eLBuT7rp7AiBGBgZk1WnuzMDyDfk6ynGfX7Q0xhDDVHku-PZnR3lPmQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/wOAxLMR.png"tvg-id="", CHANNEL21 - Alemanha (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374156/ei/bGc3ZNfFD5fvuQLkm5uoDA/ip/40.77.92.160/id/0Vz3bK6K0f4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMw9inqBF-PqC329rv4yNFK04lePHTKBUGxIEE4XmkHQCIQCIrb4I6vteXvDykVxQpvzI_geulDshTZNDjB20eoP7eQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/pwVA25v.jpg"tvg-id="", Телеканал Shop&Show - Russia (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374156/ei/bGc3ZIiXMIXiuwK6yLeADA/ip/40.77.92.160/id/By961oA4ejE.21/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMW0M-1em8plWnajIX2geUtVcZrD7mYroIpnmsXFArP0AiBWNEY6SbeggMZLZEWbSRByk4PMnmjRt2BHrO_s-xdOMg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/CNf0Ej5.png"tvg-id="", Juvelirochka TV (Ювелирочка ТВ) - Russia (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374157/ei/bWc3ZPPpE8Sj6QKOzYTQAQ/ip/40.77.92.160/id/aqBJQH75YJo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJN_6E5Q4S3fu_7cEwFs3YVReObEQk4A72N59kX2oiI8AiEAiGyAta4ENI5JEBg8bVwRgAoXOp_Qgp53PoB3A2WslEM%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/gFnsnth.jpg"tvg-id="", Leomax 24 - Russia (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374157/ei/bWc3ZLTHMKvB6QKg0o3IBg/ip/40.77.92.160/id/n3SHy7ta3pE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKJZfA-UkdPbJtm7oO3GdOJjfPBjzCggLqJ8X0IMbfS0AiB8rdBSPncFtRLzqcWW9Etg32-cb6KPHXAmJcZIYGHpzA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/ryobVFo.jpg"tvg-id="", MOMO Shopping Channel CH35 - Japan (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374158/ei/bmc3ZPTdEqvB6QKE_IvABQ/ip/40.77.92.160/id/xbNWkUyxQGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgG6Ec4bi850wj0PBO16gEKLPflYyLwKDJvtuIrwJKSBACIQDMVD7Fulemy6_x6kjSdekR9JkXcpSv266VOAUNO5efyw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://i.imgur.com/ryobVFo.jpg"tvg-id="", MOMO Shopping Channel CH48 - Japan (STK)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374158/ei/bmc3ZIWgLrCTlu8PgZS4oA8/ip/40.77.92.160/id/_pZQ1Lk0xMA.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFCqxGNpGdi3kP__BBNH9gywQ62uy9xJzKoyLqcpIP1ICIFVq2srOa3j0avgb1OKLQKw2FnrteAIbkhhuL0tv7zvb/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRarkibJxwPdevJ6jDRJ8Fztdt5sly2rFilSbRfIQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Live東森購物台
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374159/ei/b2c3ZMXwELyC_tcP9YCv-AE/ip/40.77.92.160/id/ViJ3XiN6Q3M.6/source/yt_live_broadcast/requiressl/yes/tx/24470264/txs/24470261%2C24470262%2C24470263%2C24470264%2C24470265%2C24470266%2C24470267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPJJq2xrhF6WbvfZENTZ3EHoFbdhl3KxrtCbAFNaRU8oAiEAg7ARTp4n2LmVqznuJ4ISqG7j9j_k4LPCRDhq8lIakPg%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Home Shopping" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQudWWNn0SsatIUa2ZzwFpyRccgalHjWQyLVga0wQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", ViVa TV美好家庭購物
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374159/ei/b2c3ZIW4LeSN_tcPx9OE2A8/ip/40.77.92.160/id/yuhgIlXwPh8.16/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP71XjwnH-YlcvutMvj8j8ik6Ivv0I8MqnXwecALwws9AiAjU5e78_WhNWnwj-JUzp8mZjBXY22uU5z0Q_bxfwLmlw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Televisa Tijuana Oficial
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTm6RoVYVAWhnPI4yxPIqQLR1BzylEoI9ZlY1j5Tg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Televisa Tijuana Oficial
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRmmKfO1elXXd35esMKADHT1pwz6e-JLpQrO0Do=s88-c-k-c0x00ffffff-no-rj"tvg-id="", Televisa Monterrey
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSQLi-YQ5nyYYmxkdA8pBkJIql9s_fCRZd2_yaC2A=s88-c-k-c0x00ffffff-no-rj"tvg-id="", Telediario Canal 6 Monterrey
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Televisa Chihuahua
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Televisa Chihuahua
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/Gd5V-MNiraxmwRdZ5IXMYf2NEM6Fh9Or6WCWxulvmOP2eYPTL39wMCZR4MW-KQgc_ndabDO-C_c=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Televisa Nueve
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="México" tvg-logo="https://yt3.ggpht.com/0qm6Okilij8qpEmYY7skskeqQ84QapO7qp64PDip-cZX7jZpuSIh1uRLz7Ote6WWKS2CzcpClG0=s88-c-k-c0x00ffffff-no-rj"tvg-id="", Senado de México
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s48-c-k-c0x00ffffff-no-rj"tvg-id="", EarthCam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374164/ei/dGc3ZNDfAuC-lu8PuvCEiAk/ip/40.77.92.160/id/1-iS7LArMPA.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcBUJvHbft9uinqDoDrM7UAo3VtB2doN60UFkvpwNGEQCIQC0eem2AcDGDFHXK5yvgvFSc6iXja1fjebxyETtG4r0DA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSx03XvqoiFy-7fm0q2kNOhYQR7VIbviODP9XmN=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Câmera Engeplus - Rincão
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374164/ei/dGc3ZM-aHqOsjQSgqYTIDA/ip/40.77.92.160/id/MAL2G84e97c.5/source/yt_live_broadcast/requiressl/yes/tx/24428416/txs/24428414%2C24428415%2C24428416%2C24428417%2C24428418%2C24428419%2C24428420/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJDulILJlIKEq-RGXMGby52Ebeaua1EAX_n9z5bLVkZwAiEAhBTzeeCPC0c4TrT14leITEuEZaUkJ94XnbuKvh82BBw%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/gfwerOJqK7yw2k5hgsmVHhGwB0RQG4FLwD-YFtdSX5yEZwu9eyPWhjOjW-XJVJBZoK6357DdvA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", TRENS AO VIVO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374165/ei/dWc3ZLSsAv6elu8PydKfiAE/ip/40.77.92.160/id/6NGcs3nE9xA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOwo1POXbOY9dQvZ3oW6fzhGRNgCQOapJFbN61-hpBWLAiBa20X72KPeK5xBOI3p6iAWvlU75mr9EevRDf8FSqRCZg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/CxrI7xXKD8E-xTy-BsnunKxdEjh6y2txnMc5ErmFMY0DvJUDqh2sly42NF2zOGsgKDqPIRTCOg=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Filipinas Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374165/ei/dWc3ZKu9G5n_2_gPncOpuAQ/ip/40.77.92.160/id/0-OntEuMILk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO8VgtPl_pTUPXEPUJVImNOgXXc8IJHSSdACfJpaeSAUAiBQ-3igBeIe7kt5Z30bPEBC3kYQNZ_FWSkvJOmXIdbZ1w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/wy6yyhlV7AA55gddO2YBTw1TG6CFeLflJcXuQa6A17Nc7aHszS2A-6_aSAffiNliIzpj3FS9BA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", ABC13 Houston Cam
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374165/ei/dWc3ZNCMNrGolu8PuYeWoAE/ip/40.77.92.160/id/5jPqMDjJKpM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJqf365EW9Pp-vEaDM1TdJS3mCJ4gCAl9pw61iR0Q_YcCIQDGpFxd0-fZies0BhiMPkwQ5Dar1eSlTTE1ybq8tUye2A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", CABVIEWS from Norway
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/UOEO3Tl2RFnoD5H5m2tTOcDNpIbfszq5OPQBNroVHn90u0D6Ut-O8ZBwPC3EsDJkEwicnCVVHA=s48-c-k-c0x00ffffff-no-rj"tvg-id="", CABVIEWS from Norway
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Cameras Ao Vivo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJglkmhs17R29Z00s8rPrBCuLPHyExWpBIJpyK7g=s48-c-k-c0x00ffffff-no-rj"tvg-id="", THAILAND LIVE
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSTlhL9hy9pW2UyBNf7RUTvDzPbFDR73pNvc9DP=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Camara dos Deputados Italia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374167/ei/d2c3ZMSDA9iW_tcP67GIMA/ip/40.77.92.160/id/V6eT2sIcJzY.1/source/yt_live_broadcast/requiressl/yes/tx/24429555/txs/24249503%2C24429555%2C24435245/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXoXtAthOvnK0ZsABKyYYi5PeqEkvRaTjoTnffIDz_5cCICrB-e64o27DrHTiPxZgN91btE9DJnnLvjZQKjIjRd_w/file/index.m3u8
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT0U_dCP85t0azgdKSZ93Ihj8DB0wFyuSFEdaLVoQ=s48-c-k-c0x00ffffff-no-rj"tvg-id="", Globovisión En Vivo Ve
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374167/ei/d2c3ZJqbILGolu8PuYeWoAE/ip/40.77.92.160/id/ID5FLv9hm6E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgTN8jqr4ASsAhNWktIFsvJ4AKzS90Dfr_29Oi3lEgt3QCIEzUB7ucE7ZaN6MZ7rTogfvkU0TYNOXGqtCUHop2905K/file/index.m3u8
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSh1AT7nLzmK_hNCzmcgrXBokg-DsYC6MKQ6A18=s48-c-k-c0x00ffffff-no-rj"tvg-id="", El País
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVHufh_kTHBz51AgWKpi5E-yBplmevkqtIrN1ZTKE=s48-c-k-c0x00ffffff-no-rj"tvg-id="", La Vanguardia
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png"tvg-id="", teleSUR
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png"tvg-id="", teleSUR English
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681374169/ei/eWc3ZJCjC8W6jQSW3IbABw/ip/40.77.92.160/id/uCHP54DnybY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKGcd7_V2QsnfK-R-C1PaLwercXjeKWDOXfoFcQGa6jCAiEAhrdY2j14ZNjropjStcUGE4NMO38sgIpIEujBNXA0P54%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Espanha" tvg-logo="https://yt3.ggpht.com/rLmW43Zq8QoI0rbyjN6r2jD495KTIYzmCtznYzSLQ0b-9dhR8YLtgsw3jvrNqgOCYCzoV-p-bA=s48-c-k-c0x00ffffff-no-rj"tvg-id="https://www.youtube.com/c/rtvenoticias/live", RTVE
